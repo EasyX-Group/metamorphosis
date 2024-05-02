@@ -37,5 +37,9 @@ class SSLAuthentication implements AuthenticationInterface
             'ssl.key.location',
             $this->configManager->get('auth.key')
         );
+        $this->conf->set(
+            'ssl.key.password',
+            $this->configManager->get('auth.password')
+        );
     }
 }
