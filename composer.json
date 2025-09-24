@@ -9,10 +9,10 @@
     "require": {
         "ext-rdkafka": ">=4.0",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^6.5.0 || ^7.0",
-        "illuminate/support": "^9.0 || ^10.0",
-        "illuminate/console": "^9.0 || ^10.0",
-        "illuminate/config": "^9.0 || ^10.0",
+        "guzzlehttp/guzzle": "^6.5.0",
+        "illuminate/support": "^9.0",
+        "illuminate/console": "^9.0",
+        "illuminate/config": "^9.0",
         "php": "^8.0",
         "rg/avro-php": "^3.0"
     },

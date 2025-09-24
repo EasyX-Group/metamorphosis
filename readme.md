@@ -109,7 +109,7 @@ More about [PECL on Windows](https://www.php.net/manual/en/install.pecl.windows.
 Install the library via Composer:
 
 ```bash
-composer require leroy-merlin-br/metamorphosis
+composer require easyx/metamorphosis
 ```
 
 And publish the config file with:
